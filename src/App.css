@@ -1,0 +1,10 @@
+.dark-mode {
+  background-color: black;
+  color: white;
+  height: 100%;
+}
+
+.white-mode {
+  color: black;
+  background-color: white;
+}
